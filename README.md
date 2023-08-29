@@ -4,7 +4,7 @@ I'm a Data Scientist and Machine Learning Engineer from Colombia 🇨🇴, I'm c
 
 My most recent projects are related to the use of Machine Learning in large scale and how to deliver value continuosly through MLOPs Engineering 👨🏽‍💻. Check some of those projects out in my [personal page](https://alejohz.github.io/).
 
-- ⚡ Fun fact: I love triatlhon and trekking up high mountains.
+- ⚡ Fun fact: I love triathlon and trekking up high mountains.
 ### <p align="center" style="font-size: 32;">📫 How to reach me:</p>
 ---
 <p align="center">
