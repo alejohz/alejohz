@@ -1,8 +1,8 @@
 # <p align="center" style="font-size: 45;"> Hi, I'm Alejandro 👾</p>
 
-I'm a Data Scientist and Machine Learning Engineer from Colombia 🇨🇴, I'm currently working at [Human Living Data](https://www.humanld.io/home) as a Data Scientist, I'm passionate about technology and I love to learn new things every day. For the past 4 years I have been using my knowledge in Machine Learning to contirbute value to organizations and people.
+I'm a Data Scientist and Machine Learning Engineer from Colombia 🇨🇴, I'm currently working at [Human Living Data](https://www.humanld.io/home) as a Data Scientist, I'm passionate about technology and I love to learn new things every day. For the past 4 years I have been using my knowledge in Machine Learning to contribute value to organizations and people.
 
-My most recent projects are related to the use of Machine Learning in large scale and how to deliver value continuosly through MLOPs Engineering 👨🏽‍💻. Check some of those projects out in my [personal page](https://alejohz.github.io/).
+My most recent projects are related to the use of Machine Learning in a large scale and how to deliver value continuosly through MLOPs Engineering 👨🏽‍💻. Check some of those projects out in my [personal page](https://alejohz.github.io/).
 
 - ⚡ Fun fact: I love triathlon and trekking up high mountains.
 ### <p align="center" style="font-size: 32;">📫 How to reach me:</p>
