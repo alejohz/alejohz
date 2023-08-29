@@ -1,6 +1,4 @@
-<p align="center" style="font-size: 45;">
-Hi, I'm Alejandro 👾
-</p>
+# <p align="center" style="font-size: 45;"> Hi, I'm Alejandro 👾</p>
 
 I'm a Data Scientist and Machine Learning Engineer from Colombia 🇨🇴, I'm currently working at [Human Living Data](https://www.humanld.io/home) as a DAta Scientist, I'm passionate about technology and I love to learn new things every day. For the past 4 years I have been using my knowledge in Machine Learning to contirbute value to organizations and people.
 
