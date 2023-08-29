@@ -1,4 +1,4 @@
-## <p align="center" style="font-size: 32;">
+<p align="center" style="font-size: 45;">
 Hi, I'm Alejandro 👾
 </p>
 
